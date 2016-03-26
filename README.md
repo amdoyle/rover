@@ -1,7 +1,7 @@
-== Mars Rover
+#Mars Rover
 
-=== About: 
+##About:
 * School assignment to learn Ruby using the command line
 
-=== Versions: 
+##Versions: 
 * Ruby 2.3.0
